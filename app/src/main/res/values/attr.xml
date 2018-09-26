@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+    <attr name="value" format="integer" />
+    <attr name="circleR" format="integer" />
+    <attr name="paintWidth" format="integer" />
+    <attr name="paintColor" format="color" />
+    <attr name="valueSize" format="integer" />
+    <declare-styleable name="DKCircleView">
+        <attr name="value" />
+        <attr name="circleR" />
+        <attr name="paintWidth" />
+        <attr name="paintColor" />
+        <attr name="valueSize" />
+    </declare-styleable>
+</resources>
